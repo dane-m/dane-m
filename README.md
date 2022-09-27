@@ -1,1 +1,1 @@
-I'm Dane, a 14-year-old software developer. I am currently working on my game engine Dango Engine. Programmed entirely in C++.
+I'm Dane, a 15-year-old software developer, as well as a roblox programmer. I am currently working on my game engine Dango Engine, as well as a few small roblox projects. view my portfolio repository for code examples.
